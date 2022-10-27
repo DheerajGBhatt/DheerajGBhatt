@@ -13,5 +13,8 @@
 <br>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DheerajGBhatt&show_icons=true&theme=dark ) ![Language stats]( https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajGBhatt&show_icons=true&theme=dark)
+<p align="center">
+    <a href="https://github.com/lutfilahdzaky"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=DheerajGBhatt&theme=dark&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/lutfilahdzaky"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=DheerajGBhatt&theme=dark&hide_border=true"></a>
+</p>
 
