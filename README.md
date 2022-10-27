@@ -5,7 +5,17 @@
 -  Working in Antstack.io 
 
 -  Working on rover-cli
-- 
+
+### Connect with me:
+
+
+[<img align="left" width="22" alt="Instagram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">](https://www.instagram.com/dheerajgbhat)
+
+[<img align="left" width="22" alt="Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">](https://twitter.com/DheerajGBhatt96)
+[<img align="left" width="22" alt="LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/dheeraj-bhatt-85023a130)
+
+<br>
+
 <br>
 <br>
 
