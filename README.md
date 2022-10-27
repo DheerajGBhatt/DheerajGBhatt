@@ -9,4 +9,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DheerajGBhatt&show_icons=true&theme=dark)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajGBhatt)
 
