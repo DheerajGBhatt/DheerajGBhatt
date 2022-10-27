@@ -6,7 +6,7 @@
 
 -  I’m working on rover-cli
 
-### Languages and Tools:
+### Skills:
 
 ![Languages and Tools](https://skillicons.dev/icons?i=js,ts,aws,dynamodb,mysql,py,django,git,github,githubactions,vscode,nodejs,java,go)
 <br>
