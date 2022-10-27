@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-![Languages and Tools](https://skillicons.dev/icons?i=js,ts,py,git,github,vscode,nodejs,java,go,aws)
+![Languages and Tools](https://skillicons.dev/icons?i=js,ts,py,git,github,vscode,nodejs,java,go,aws-sam)
 <br>
 <br>
 
