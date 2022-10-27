@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-![Languages and Tools](https://skillicons.dev/icons?i=js,ts,aws,py,git,github,vscode,nodejs,java,go)
+![Languages and Tools](https://skillicons.dev/icons?i=js,ts,aws,dynamodb,mysql,py,django,git,github,githubactions,vscode,nodejs,java,go)
 <br>
 <br>
 
