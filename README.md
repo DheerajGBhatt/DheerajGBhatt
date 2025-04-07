@@ -4,7 +4,6 @@
 
 -  Working in Antstack.io 
 
--  Working on [Rover](https://rover.antstack.com/)
 
 <br>
 
