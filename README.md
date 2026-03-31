@@ -14,7 +14,6 @@ I specialize in **serverless architecture, AWS cloud services, and scalable syst
 - 🧠 Building a **multi-agent system** to automatically convert Product Requirements Documents (PRDs) into functional projects.
 - 📈 Developing an AI-powered system to fetch and analyze quarterly financial results for Indian companies (NSE).
 - 🏗️ Leading backend architecture and building multi-region active-passive failover systems at **AntStack**.
-- 🏆 Organizing and closely following local Kabaddi tournaments in my free time.
 
 ---
 
