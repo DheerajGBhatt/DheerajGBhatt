@@ -32,4 +32,36 @@ I specialize in **serverless architecture, AWS cloud services, and scalable syst
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+**Frameworks & Infrastructure**
+![AWS SAM](https://img.shields.io/badge/AWS_SAM-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+---
+
+### 💼 Experience & Key Highlights
+
+* **Senior Backend Developer @ AntStack (2021 - Present)** * Architected scalable backend systems for major brands using AWS CDK, Lambda, Step Functions, and DynamoDB.
+  * Successfully migrated **32M+ records** from Couchbase to AWS OpenSearch with robust search functionality.
+  * Built real-time stock market data processing pipelines utilizing **TA-Lib** and EventBridge.
+* **Open Source Leadership**
+  * **Tech Lead for Rover:** An open-source NPM package designed to streamline serverless development, helping developers easily create, update, and deploy AWS SAM projects.
+* **Previous Roles:** Backend Developer at ASM Technologies (Go, SD-WAN) & Blooms Mobility Technologies (Python/Django).
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DheerajGBhatt&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajGBhatt&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6" height="150" alt="Top Languages" />
+</div>
+
+---
+<div align="center">
+  <em>Always excited to discuss scalable systems, serverless architectures, and innovative AI solutions.</em><br>
+  <b><a href="https://www.dgbhatt.dev/">dgbhatt.dev</a></b>
+</div>
