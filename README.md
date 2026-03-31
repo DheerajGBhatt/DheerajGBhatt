@@ -4,7 +4,7 @@
 
 I specialize in **serverless architecture, AWS cloud services, and scalable system design**. I build robust applications that handle millions of records, lead development teams to deliver exceptional solutions, and am passionate about exploring AI and multi-agent systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/dheeraj-g-bhatt-85023a130/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dheeraj-g-bhatt-85023a130/)
 [![Portfolio](https://img.shields.io/badge/Website-dgbhatt.dev-000000?style=flat&logo=vercel)](https://www.dgbhatt.dev/)
 
 ---
